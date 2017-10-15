@@ -1,0 +1,2 @@
+# Enable Auto Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=sinanaj.aldo.SleuthFeatureAutoConfiguration
